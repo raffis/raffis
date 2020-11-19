@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Software Engineer :code: and currently wearing the DevOps hat :tophat:
+I am a Software Engineer and currently wearing the DevOps hat :tophat:
 
-<img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png" width="240" height="240"></img>
+<img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png" width="350" height="350"></img>
 
 Here is some **tech** I work with a lot or at least used to including:
 
