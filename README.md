@@ -2,6 +2,11 @@
 
 I am a Software Engineer and currently wearing the DevOps hat :tophat:
 
+... Living in Zurich :house:<br/>
+... Doing a lot of Open source stuff, see contributions bellow this readme :point_down:<br/>
+... Currently working at Doodle :penguin:<br/>
+... Yes I do enjoy other stuff besides tech :palm_tree:<br/>
+
 <img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400" height="400"></img>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189//)
