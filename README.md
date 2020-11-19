@@ -4,9 +4,17 @@ I am a Software Engineer and currently wearing the DevOps hat :tophat:
 
 <img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400" height="400"></img>
 
-Here is some **tech** I work with a lot or at least used to including:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189//)
+[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/994873/raffis)
+[![GitHub](	https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raffis)
+ 
 
-#### :pencil: ... these programming languages
+
+<hr/>
+
+Here is some **tech** I work (or at least used to) & enjoy a lot including:
+
+### :pencil: ... these programming languages
 <p align="left">
  <a href="https://golang.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
@@ -18,7 +26,7 @@ Here is some **tech** I work with a lot or at least used to including:
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
-#### :floppy_disk: ... databases/kv stores/streamings plattforms
+### :floppy_disk: ... databases/kv stores/streamings plattforms
 <p align="left">
  <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
@@ -29,7 +37,7 @@ Here is some **tech** I work with a lot or at least used to including:
  <a href="https://memcached.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="Memcached" width="40" height="40"/> </a>
 </p>
 
-#### :wrench: ... various DevOps/SRE stuff
+### :wrench: ... various DevOps/SRE stuff
 <p align="left">
  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
  <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
@@ -54,7 +62,7 @@ Here is some **tech** I work with a lot or at least used to including:
  <a href="https://www.elastic.co/logstash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/> </a>
 </p>
 
-#### :art: ... designing & creating UI
+### :art: ... designing & creating UI
 <p align="left">
  <a href="https://webpack.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -62,7 +70,7 @@ Here is some **tech** I work with a lot or at least used to including:
  <a href="https://www.electronjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="40" height="40"/> </a>
 </p>
 
-#### :computer: ... dealing with
+### :computer: ... dealing with
 <p align="left">
  <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a>
@@ -70,6 +78,6 @@ Here is some **tech** I work with a lot or at least used to including:
  <a href="https://linuxmint.com/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/linux-mint.svg" alt="Mint" width="40" height="40"/> </a>
 </p>
 
-
+<hr/>
 
 ![raffis github stats](https://github-readme-stats.vercel.app/api?username=raffis&show_icons=true)
