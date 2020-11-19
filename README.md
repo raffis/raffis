@@ -2,7 +2,7 @@
 
 I am a Software Engineer and currently wearing the DevOps hat :tophat:
 
-<img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png" width="350" height="350"></img>
+<img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400" height="400"></img>
 
 Here is some **tech** I work with a lot or at least used to including:
 
