@@ -82,7 +82,3 @@ Here is some **tech** I work (or at least used to) & enjoy a lot including:
  <a href="https://www.debian.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://linuxmint.com/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/linux-mint.svg" alt="Mint" width="40" height="40"/> </a>
 </p>
-
-<hr/>
-
-![raffis github stats](https://github-readme-stats.vercel.app/api?username=raffis&show_icons=true)
