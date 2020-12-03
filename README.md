@@ -47,8 +47,6 @@ Here is some **tech** I work (or at least used to) & enjoy a lot including:
  <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.debian.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://linuxmint.com/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/linux-mint.svg" alt="Mint" width="40" height="40"/> </a>
-</p>
-<p align="left">
  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
  <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://www.prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> </a>
