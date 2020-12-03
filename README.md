@@ -2,18 +2,17 @@
 
 I am a Software Engineer and currently wearing the DevOps hat :tophat:
 
-Living in Zurich :house:<br/>
 Doing a lot of Open source stuff, see contributions bellow this readme :point_down:<br/>
+Living in Zurich :house:<br/>
 Currently working at Doodle :penguin:<br/>
 Yes I do enjoy other stuff besides tech :palm_tree:<br/>
 
 <img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400"></img>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189//)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/994873/raffis)
 [![GitHub](	https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raffis)
  
-
 
 <hr/>
 
@@ -44,6 +43,12 @@ Here is some **tech** I work (or at least used to) & enjoy a lot including:
 
 ### :wrench: ... various DevOps/SRE stuff
 <p align="left">
+ <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://www.debian.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="linux" width="40" height="40"/> </a>
+ <a href="https://linuxmint.com/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/linux-mint.svg" alt="Mint" width="40" height="40"/> </a>
+</p>
+<p align="left">
  <a href="https://kubernetes.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> 
  <a href="https://www.docker.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://www.prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> </a>
@@ -65,7 +70,11 @@ Here is some **tech** I work (or at least used to) & enjoy a lot including:
  <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
  <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="Helm" width="40" height="40"/> </a>
  <a href="https://www.elastic.co/logstash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/> </a>
+  <a href="http://www.postfix.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Postfix-logo.svg" alt="Postfix" width="40" height="40"/> </a>
+
 </p>
+
+
 
 ### :art: ... designing & creating UI
 <p align="left">
@@ -73,12 +82,4 @@ Here is some **tech** I work (or at least used to) & enjoy a lot including:
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.electronjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="40" height="40"/> </a>
-</p>
-
-### :computer: ... dealing with
-<p align="left">
- <a href="https://www.linux.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://www.debian.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/debian/debian-original.svg" alt="linux" width="40" height="40"/> </a>
- <a href="https://linuxmint.com/" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/linux-mint.svg" alt="Mint" width="40" height="40"/> </a>
 </p>
