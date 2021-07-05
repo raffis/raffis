@@ -5,7 +5,7 @@ I am a Software Engineer 🧙
 Contributing to a wide range of Open Source repos,
 
 Living in Zurich 🇨🇭<br/>
-Currently working at Doodle :penguin:<br/>
+Currently working as DevOps Engineer at Doodle :penguin:<br/>
 Yes I do enjoy other stuff besides tech :palm_tree:<br/>
 
 <img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400"></img>
