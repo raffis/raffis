@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-I am a Software Engineer and currently wearing the DevOps hat :tophat:
+I am a Software Engineer 🧙
 
-Doing a lot of Open source stuff, see contributions bellow this readme :point_down:<br/>
-Living in Zurich :house:<br/>
+Contributing to a wide range of Open Source repos,
+
+Living in Zurich 🇨🇭<br/>
 Currently working at Doodle :penguin:<br/>
 Yes I do enjoy other stuff besides tech :palm_tree:<br/>
 
@@ -16,7 +17,7 @@ Yes I do enjoy other stuff besides tech :palm_tree:<br/>
 
 <hr/>
 
-Here is **some tech** I work (or at least used to) & enjoy a lot including:
+Here is **some tech** I work (or at least used to) almost daily & enjoy a lot including:
 
 ### :pencil: ... these programming languages
 <p align="left"> 
