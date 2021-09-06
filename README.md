@@ -2,10 +2,12 @@
 
 I am a Software Engineer 🧙
 
-Contributing to a wide range of Open Source repos,
+Contributing to a wide range of Open Source repos, kubernetes stuff, automate things, gitops things, writing go and other languages
+and moooore 🙂😎
+
 
 Living in Zurich 🇨🇭<br/>
-Currently working as DevOps Engineer at Doodle :penguin:<br/>
+Currently working as DevOps Engineer at Doodle<br/>
 Yes I do enjoy other stuff besides tech :palm_tree:<br/>
 
 <img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400"></img>
