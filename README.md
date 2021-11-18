@@ -5,7 +5,7 @@ I am a Software Engineer 🧙
 Contributing to a wide range of Open Source repos, kubernetes stuff, automate things, gitops things, writing go and other languages
 and moooore 🙂😎
 
-<img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400"></img>
+<img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400"/>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/994873/raffis)
