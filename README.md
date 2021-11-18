@@ -19,13 +19,13 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
 ### :pencil: ... these programming languages
 <p align="left"> 
  <a href="https://golang.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
- <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
  <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+ <a href="https://groovy-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/> </a>
 </p>
 
 ### :wrench: ... various DevOps/SRE stuff
@@ -41,13 +41,14 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
  <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
- <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
+ <a href="https://www.nginx.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/nginx/nginx-icon.svg" alt="nginx" width="40" height="40"/> </a>
  <a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
  <a href="https://traefik.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/traefikio/traefikio-icon.svg" alt="Traefik" width="40" height="40"/> </a>
  <a href="https://gitlab.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Icinga" width="40" height="40"/> </a>
  <a href="https://www.icinga.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/icinga/icinga-icon.svg" alt="Icinga" width="40" height="40"/> </a>
  <a href="https://www.puppet.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/puppet/puppet-icon.svg" alt="Puppet" width="40" height="40"/> </a>
  <a href="https://www.ansible.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="Ansible" width="40" height="40"/> </a>
+ <a href="https://www.terraform.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform" width="40" height="40"/> </a> 
  <a href="https://aws.amazon.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
  <a href="https://fluxcd.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="Flux" width="40" height="40"/> </a>
  <a href="https://argoproj.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo" width="40" height="40"/> </a>
@@ -55,8 +56,8 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
  <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
  <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="Helm" width="40" height="40"/> </a>
  <a href="https://www.elastic.co/logstash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_logstash/elasticco_logstash-icon.svg" alt="Logstash" width="40" height="40"/> </a>
-  <a href="http://www.postfix.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Postfix-logo.svg" alt="Postfix" width="40" height="40"/> </a>
-
+ <a href="http://www.postfix.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Postfix-logo.svg" alt="Postfix" width="40" height="40"/> </a>
+ <a href="https://www.getambassador.io/products/api-gateway/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ambassadorio/ambassadorio-icon.svg" alt="Emissary" width="40" height="40"/> </a>
 </p>
 
 
@@ -69,7 +70,9 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
  <a href="https://kafka.apache.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a>
  <a href="https://redis.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
  <a href="https://memcached.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/memcached/memcached-icon.svg" alt="Memcached" width="40" height="40"/> </a>
+ <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="40" height="40"/> </a>
 </p>
+
 
 
 ### :art: ... designing & creating UI
