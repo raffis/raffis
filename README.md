@@ -4,8 +4,6 @@ I am a Software Engineer 🧙
 
 Contributing to a wide range of Open Source repos, kubernetes stuff, golang, automate all the things and much moooore 🙂😎
 
-<img src="https://raw.githubusercontent.com/raffis/raffis/main/gopher.png?v1" width="400"/>
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189)
 [![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/994873/raffis)
 [![GitHub](	https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raffis)
@@ -26,7 +24,7 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
-### :wrench: ... DevOps/SRE stuff
+### :wrench: ... DevOps/SRE
 <p align="left">
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a>
@@ -74,7 +72,7 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
 
 
 
-### :art: ... UI stuff
+### :art: ... UI
 <p align="left">
  <a href="https://webpack.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/webpack/webpack-original.svg" alt="webpack" width="40" height="40"/> </a>
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
