@@ -1,13 +1,7 @@
 ### Hi there 👋
 
-I am a Software Engineer 🧙
-
-Contributing to a wide range of Open Source repos, kubernetes stuff, golang, automate all the things and much moooore 🙂😎
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189)
-[![Stackoverflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/994873/raffis)
 [![GitHub](	https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/raffis)
- 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raffael-sahli-886439189) 
 
 <hr/>
 
