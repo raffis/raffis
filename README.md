@@ -12,15 +12,16 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
  <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
  <a href="https://www.prometheus.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="40" height="40"/> </a>
  <a href="https://fluxcd.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/fluxcdio/fluxcdio-icon.svg" alt="Flux" width="40" height="40"/> </a>
- <a href="https://argoproj.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo" width="40" height="40"/> </a>
+ <a href="https://www.crossplane.io/" target="_blank"> <img src="https://www.crossplane.io/_next/static/media/icecream-icon.0e89f4c8.svg" alt="Crossplane" width="40" height="40"/> </a>
  <a href="https://thanos.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" alt="Thanos" width="40" height="40"/> </a>
  <a href="https://helm.sh/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" alt="Helm" width="40" height="40"/> </a>
  <a href="https://www.jaegertracing.io/" target="_blank"> <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/jaeger/icon/color/jaeger-icon-color.svg" alt="Helm" width="40" height="40"/> </a>
+ <a href="https://argoproj.github.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-icon.svg" alt="Argo" width="40" height="40"/> </a>
+ <a href="https://cilium.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21054566?s=200&v=4" alt="cilium" width="40" height="40"/> </a> 
  <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.ubuntu.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/ubuntu/ubuntu-plain.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.debian.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/debian/debian-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://cilium.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/21054566?s=200&v=4" alt="cilium" width="40" height="40"/> </a> 
  <a href="https://grafana.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a>
  <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
  <a href="https://www.elastic.co/kibana" target="_blank"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a>
@@ -49,6 +50,7 @@ Here is **some tech** I work (or at least used to) almost daily & enjoy a lot in
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
  <a href="https://www.electronjs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/electronjs/electronjs-icon.svg" alt="Electron" width="40" height="40"/> </a>
+ <a href="https://www.samba.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_Samba_Software.svg" alt="Samba" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master//icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
  <a href="https://groovy-lang.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/groovy-lang/groovy-lang-icon.svg" alt="groovy" width="40" height="40"/> </a>
