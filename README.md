@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a SRE/DevOps engineer. I enjoy automate stuff and streamline workflows.
-I've written a lot of kubernetes controllers, prometheus exporters, gitops tooling and various other tooling.
+I've written a lot of kubernetes controllers, prometheus exporters, gitops tooling and various other stuff.
 Also contributed to various well known oss tooling including flux, kyverno, MongoDB, Cilium and many more. 
 
 Here is **some tech** I work (or at least used to) almost daily & enjoy a lot including:
